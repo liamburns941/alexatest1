@@ -1,0 +1,8 @@
+//Upload the zip file
+https://eu-west-1.console.aws.amazon.com/lambda/home?region=eu-west-1#/functions?display=list
+
+//Configure the skill
+https://developer.amazon.com/edw/home.html#/skill/amzn1.ask.skill.3c6b6f52-a25d-4cee-896b-e71688af6604/en_GB/info
+
+//Test with Alexa
+https://echosim.io/
